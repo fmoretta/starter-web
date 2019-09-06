@@ -1,3 +1,4 @@
 pippo.txt
 log/
 *.orig
+.DS_Store
